@@ -20,6 +20,6 @@ git clone
 cd app
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ## Kodlar için erişim isteyiniz.
 https://drive.google.com/drive/folders/1z7cfDoKvtfpP-jg6_qxMzep6rPBiNmyl?usp=drive_link
